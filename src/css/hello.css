@@ -1,0 +1,7 @@
+.hello {
+  display: flex;
+  color: red;
+  font-size: 44px;
+  background-image: url('img/icon.png');
+  border-radius: 30px;
+}
